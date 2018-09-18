@@ -1,0 +1,70 @@
+[{
+  "q": "Comment s'appelle la branche principale de GIT par défaut ?",
+  "a": "default",
+  "b": "remote",
+  "c": "main",
+  "d": "master",
+  "e": "dev"
+}, {
+  "q": "Comment changer de branche sous GIT ?",
+  "a": "git branche 'X'",
+  "b": "git checkout -b 'X'",
+  "c": "git branch 'X'",
+  "d": "git checkout 'X'",
+  "e": "git add 'X'"
+}, {
+  "q": "Comment puis-je récupérer un projet complet déjà présent sur un repository distant ?",
+  "a": "git clone",
+  "b": "git fetch",
+  "c": "git merge",
+  "d": "git init",
+  "e": "git add"
+}, {
+  "q": "Quels est le bon ordre d'éxécution afin de partager une version de code sur Github ?",
+  "a": "git commit -> git branch -> git push",
+  "b": "git add -> git commit -> git push",
+  "c": "git commit -> git add -> git push",
+  "d": "git push -> git commit -> git add",
+  "e": "git checkout -> git push -> git add"
+}, {
+  "q": "Quelle commande permet d'initialiser un projet avec NPM et de générer le fichier package.json ?",
+  "a": "node init",
+  "b": "npm init",
+  "c": "npm install 'nom du projet' --save",
+  "d": "mkdir",
+  "d": "create"
+}, {
+  "q": "Quelles sont les commandes de base permettant d'éditer un fichier ?",
+  "a": "cat",
+  "b": "edit",
+  "c": "vi",
+  "d": "pwd",
+  "e": "mkdir"
+}, {
+  "q": "En ES6, comment accède-t-on à une propriété d'un objet ?",
+  "a": "objet.propriete",
+  "b": "objet[1]",
+  "c": "objet.length",
+  "d": "objet['propriete']",
+  "e": "console.log(objet)"
+}, {
+  "q": "En ES6, comment créer une nouvelle variable à partir d'une propriété d'un objet ?",
+  "a": "const prop = {obj}.prop",
+  "b": "const prop = obj.prop",
+  "c": "const {prop} = obj",
+  "d": "const prop = {...obj}",
+  "e": "const prop = Object.assign(obj, prop)"
+}, {
+  "q": "Quel est le meilleur campus WCS de France ?",
+  "a": "Bordeaux",
+  "b": "Brest",
+  "c": "Le Mans",
+  "d": "Avignon",
+  "e": "Le Havre"
+}, {
+  "q": "Quel est le meilleur langage au monde?",
+  "a": "JS",
+  "b": "PHP",
+  "c": "Java",
+  "d": "C++"
+}]
