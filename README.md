@@ -6,11 +6,11 @@
 * Clonez ce projet
 * Créer une branche "nom_prenom", qui va contenir votre avancée. (nom_prenom sera remplacé par votre nom et votre prénom...)
 
-## Pré-requis
+## Pré-requis (outils installés)
 
-* Nodejs
+* nodejs
 * npm
-* [wcs-checkpoints-js](https://www.npmjs.com/package/wcs-checkpoints-quiz)
+* wcs-checkpoints-js
 
 -----------------------------------
 __A chaque fois que vous complétez un exercice:__
@@ -26,7 +26,7 @@ __A chaque fois que vous complétez un exercice:__
 wcs-checkpoints-quiz start
 ```
 * Suivez les instructions présentes dans le terminal.
-* Répondez au questions qui vous seront posées.
+* Répondez aux questions qui vous seront posées.
 * Une fois le quiz terminé, n'oubliez pas de commiter le fichier de réponses.
 
 
@@ -39,7 +39,7 @@ Réalisez l'ensemble des algos présents
 
 > algo2.js
 
-> algo3.js
+> (**BONUS**) algo3.js
 
 -----------------------------------
 
