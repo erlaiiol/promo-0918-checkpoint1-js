@@ -4,7 +4,7 @@
 
 -----------------------------------
 * Clonez ce projet
-* Créer une branche "nom_prenom", qui va contenir votre avancée. (nom_prenom sera remplacé par votre nom et votre prénom...)
+* Créez une branche "nom_prenom", qui va contenir votre avancée. (nom_prenom sera remplacé par votre nom et votre prénom...)
 
 ## Pré-requis (outils installés)
 
