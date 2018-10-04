@@ -13,7 +13,7 @@
 * wcs-checkpoints-js
 
 -----------------------------------
-__A chaque fois que tu compléte un exercice:__
+__A chaque fois que tu complétes un exercice:__
 * Fais un commit avec un message EXPLICITE sur votre branche.
 * Fais un push de votre branche.
 
@@ -26,7 +26,7 @@ __A chaque fois que tu compléte un exercice:__
 wcs-checkpoints-quiz start
 ```
 * Suis les instructions présentes dans le terminal.
-* Réponde aux questions qui vous seront posées.
+* Réponds aux questions qui vous seront posées.
 * Une fois le quiz terminé, n'oublie pas de commiter le fichier de réponses.
 
 
