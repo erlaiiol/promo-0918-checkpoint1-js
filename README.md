@@ -10,7 +10,7 @@
 
 * nodejs
 * npm
-* wcs-checkpoints-js
+* wcs-checkpoints-quiz
 
 -----------------------------------
 __A chaque fois que vous complétez un exercice:__
