@@ -1,0 +1,16 @@
+Q.1: d
+Q.2: d b
+Q.3: a
+Q.4: b
+Q.5: b
+Q.6: b
+Q.7: e
+Q.8: a
+Q.9: b
+Q.10: ae
+Q.11: a e
+Q.12: c
+Q.13: c
+Q.14: d a
+Q.15: a d
+Q.16: a
