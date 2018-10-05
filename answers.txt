@@ -7,8 +7,8 @@ Q.6: b
 Q.7: e
 Q.8: a
 Q.9: b
-Q.10: b a
-Q.11: a e
+Q.10: b, a
+Q.11: a, e
 Q.12: c
 Q.13: c
 Q.14: d
