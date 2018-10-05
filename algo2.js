@@ -15,7 +15,6 @@ const test = [4, 6, 35, -65, -9, 0, 67]
 // Exemple 3 :
 // Tableau d'entrée : [56, 7, 63, 9, 7, 12, 85]
 // Résultat : [7, 85]
-tableau=[2,1,10,9]
 function minMax(array){
   leMin=Number.POSITIVE_INFINITY;
   leMax=Number.NEGATIVE_INFINITY;
@@ -26,7 +25,7 @@ function minMax(array){
     else if (leMax<test[i]){
       leMax=test[i];
     }
-    console.log("dans le tableau [" + test + "] le minimum est " + leMin + " et le maximum " + leMax)
+    console.log("Dans le tableau [" + test + "] le minimum est " + leMin + " et le maximum " + leMax)
 }
 
 minMax(test)
