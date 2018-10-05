@@ -1,0 +1,16 @@
+Q.1: d
+Q.2: b,d
+Q.3: a
+Q.4: b,e
+Q.5: b
+Q.6: b
+Q.7: c,e
+Q.8: c
+Q.9: b
+Q.10: b,e,a (avec -rf)
+Q.11: a,e
+Q.12: c
+Q.13: c
+Q.14: d
+Q.15: a,c
+Q.16: a,d
