@@ -13,7 +13,7 @@
 * wcs-checkpoints-quiz
 
 -----------------------------------
-__A chaque fois que tu complétes un exercice:__
+__A chaque fois que tu complètes un exercice:__
 * Fais un commit avec un message EXPLICITE sur votre branche.
 * Fais un push de votre branche.
 
